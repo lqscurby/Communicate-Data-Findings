@@ -8,7 +8,9 @@ The data consist of information regarding 113,937 loans with 81 variables. The l
 
 Loan Data from Prosper: Last updated 03/11/2014.
 
-    • Data url: https://docs.google.com/document/d/1qEcwltBMlRYZT-l699-71TzInWfk4W9q5rTCSvDVMpc/pub?embedded=true
+    • Data url: 
+    
+    https://docs.google.com/document/d/1qEcwltBMlRYZT-l699-71TzInWfk4W9q5rTCSvDVMpc/pub?embedded=true
     
     
 # Summary of Findings
