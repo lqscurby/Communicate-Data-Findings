@@ -41,12 +41,16 @@ Afterwards, I introduce each of the categorical and numeric variables. Most of m
 # Feedback from someone
 
 • What relationships do you notice?
+
 Loan requirements before and after the crash were at opposite ends. Prosper was stricter after the crash with regards to loan qualification and credit scores.
 
 • What do you think is the main take away from the slide deck?
+
 The financial crisis caused many lenders to re-evaluate the way they approved their loans. They required more documentation and better credit scores and improved debt to income ratios. 
 
-• Is there anything that you don’t understand from the plots? No, the explanation after each slide made it easy to understand.
+• Is there anything that you don’t understand from the plots? 
+
+No, the explanation after each slide made it easy to understand.
 
 
 
